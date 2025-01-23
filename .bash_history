@@ -6,3 +6,7 @@ ls
 cd /var/lib/jenkins/workspace/cicd-pipe-project/
 ls
 cat 'new file' 
+ls
+apt update -y
+apt update
+sudo su
